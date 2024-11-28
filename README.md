@@ -8,8 +8,6 @@
 <br></br>
 <div align="left">
 👋 Hello there! I'm Ahmed - I am a full stack developer.
-  
-🎓 Currently studying a computing MSc course at UCLan.
 </div>
 
 ## Previous Experience 📒
